@@ -1,0 +1,44 @@
+# =====================
+# Python
+# =====================
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# =====================
+# Environment
+# =====================
+.env
+
+# =====================
+# Node.js
+# =====================
+node_modules/
+npm-debug.log
+
+# =====================
+# Build / Large files
+# =====================
+*.zip
+*.7z
+
+# =====================
+# ML Models (PENTING BANGET)
+# =====================
+*.pkl
+*.model
+
+# kalau model kamu di folder ini:
+model/
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# VS Code
+# =====================
+.vscode/
