@@ -24,15 +24,6 @@ npm-debug.log
 *.7z
 
 # =====================
-# ML Models (PENTING BANGET)
-# =====================
-*.pkl
-*.model
-
-# kalau model kamu di folder ini:
-model/
-
-# =====================
 # OS
 # =====================
 .DS_Store
